@@ -1,0 +1,86 @@
+html{
+  font-size: normal 100%/1.5 Georgia, serif;
+  margin: auto;
+  padding: auto;
+  line-height: 1.5;
+}
+
+body{
+   margin: 0;
+}
+
+  header{
+  background-color:#ffe500;
+  padding: 0
+  margin: 0:
+}
+
+h1, h2 {
+  margin: 0;
+  text-align: center;
+  font-family: Sigmar One, bold;
+  color: #b20953;
+}
+
+h1{
+  font-size: 3rem;
+}
+
+h2{
+  font-size: 1.875rem;
+  text-align: left;
+  margin-left: .2em;
+}
+
+.nav {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+.nav li {
+  display: inline-block;
+}
+
+.nav a {
+  font-size: 1.125rem;
+  color: #fff;
+  display: inline-block;
+  padding: .5em 0.75em;
+  background-color: #2f2d13;
+  border-radius: .3em;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  background-color: #cc1465;
+}
+
+.berries {
+  background-color: #fff;
+  margin-top: .2em;
+  padding-top: 1em;
+  padding-bottom: 0;
+
+}
+
+p{
+  text-align: left;
+  padding-bottom: .5em;
+  font-size: 1.125rem;
+  margin-left: .5em;
+}
+
+.logo {
+  text-align: center;
+  background-color: #ffe500;
+  padding: 1em 11.85em 1em 9em;
+  font-size: 1rem;
+}
+
+img {
+  width: 100%;
+  padding: .5em;
+
+}
