@@ -59,9 +59,10 @@ h2{
 
 .berries {
   background-color: #fff;
-  margin-top: .2em;
+  margin-top: .75em;
   padding-top: 1em;
   padding-bottom: 0;
+  min-width: 400;
 
 }
 
@@ -75,8 +76,10 @@ p{
 .logo {
   text-align: center;
   background-color: #ffe500;
-  padding: 1em 11.85em 1em 9em;
+  padding: 0;
   font-size: 1rem;
+  vertical-align: middle;
+  display: block;
 }
 
 img {
