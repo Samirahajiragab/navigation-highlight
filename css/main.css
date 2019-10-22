@@ -1,7 +1,5 @@
 html{
-  font-size: normal 100%/1.5 Georgia, serif;
-  margin: auto;
-  padding: auto;
+  font-size: Georgia, normal;
   line-height: 1.5;
 }
 
@@ -11,8 +9,6 @@ body{
 
   header{
   background-color:#ffe500;
-  padding: 0
-  margin: 0:
 }
 
 h1, h2 {
@@ -62,8 +58,6 @@ h2{
   margin-top: .2em;
   padding-top: 1em;
   padding-bottom: 0;
-  min-width: 400;
-
 }
 
 p{
@@ -75,7 +69,7 @@ p{
 
 .logo {
   text-align: center;
-  background-color: #ffe500;
+  background-color: #b2a212;
   padding: 0;
   font-size: 1rem;
   vertical-align: middle;
@@ -85,5 +79,4 @@ p{
 img {
   width: 100%;
   padding: .5em;
-
 }
